@@ -304,6 +304,7 @@ const Overlay = props => {
                                     />
                                 </TableCell>
                             </TableRow>
+                            clipboard.writeText({selectedTile[0] / xDivisor + xModifier}+' '+{selectedTile[1] / yDivisor + yModifier})
                         </TableBody>
                     </Table>
                 </Paper>
