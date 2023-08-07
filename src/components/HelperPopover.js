@@ -58,7 +58,7 @@ const HelperText = () => {
                     color="secondary"
                     variant="outlined"
                     size="small"
-                    href="https://github.com/Nitre88.github.io/telescience"
+                    href="https://github.com/nitre88/telescience"
                     rel="noopener noreferrer"
                     target="_blank"
                 >

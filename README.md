@@ -89,4 +89,4 @@ This repo additionally includes a python script for converting raw ingame screen
 [ss13 wiki]: https://wiki.ss13.co/Main_Page
 [github link]: https://github.com/kayle7777
 [github repo]: https://github.com/Kayle7777/telescience
-[github pages]: https://Nitre88.github.io/telescience/
+[github pages]: https://nitre88.github.io/telescience/
