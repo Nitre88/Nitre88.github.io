@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/telescience/static/css/main.65489345.css",
+    "main.js": "/telescience/static/js/main.8e5aceba.js",
+    "static/media/space.png": "/telescience/static/media/space.65d39b69e87294b6fb3f.png",
+    "index.html": "/telescience/index.html",
+    "main.65489345.css.map": "/telescience/static/css/main.65489345.css.map",
+    "main.8e5aceba.js.map": "/telescience/static/js/main.8e5aceba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65489345.css",
+    "static/js/main.8e5aceba.js"
+  ]
+}
